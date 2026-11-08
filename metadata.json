@@ -1,0 +1,6 @@
+{
+  "name": "PPDB Zumrotul Huda - PAUD & Pondok Pesantren",
+  "description": "Sistem Pendaftaran Peserta Didik Baru (PPDB) PAUD dan Santri/Santriwati Pondok Pesantren Zumrotul Huda Depok dengan cetak PDF, kirim otomatis WhatsApp, verifikasi berkas Google Drive, dan dasbor admin real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
